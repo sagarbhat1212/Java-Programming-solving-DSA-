@@ -1,2 +1,24 @@
-# Java-Programming-solving-DSA-
-Mastering Data Structures &amp; Algorithms with Java: Building efficient solutions through well-structured code. Dive into problem-solving, optimize performance, and crack competitive coding challenges using Java. Join the journey towards becoming a DSA expert!
+# Java DSA Solutions
+
+This repository contains Java-based solutions for various Data Structures and Algorithms (DSA) problems. Each solution is implemented in Java with a focus on clarity, efficiency, and scalability.
+
+## 🚀 Getting Started
+
+To get started with this repository, you need to have **Java** installed on your machine. You can clone the repository and start exploring the different DSA problem solutions.
+
+### 📂 Folder Structure
+
+```bash
+java-dsa-solutions/
+│
+├── src/            # Source code directory
+│   ├── arrays/     # Array-based problem solutions
+│   ├── linkedlist/ # Linked List-based problem solutions
+│   ├── trees/      # Tree-based problem solutions
+│   ├── graphs/     # Graph-based problem solutions
+│   ├── sorting/    # Sorting algorithm solutions
+│   └── dynamic/    # Dynamic programming problem solutions
+│
+├── tests/          # Test cases for each problem
+│
+└── README.md       # Project documentation
